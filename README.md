@@ -1,6 +1,6 @@
 # Technical Build Log — Web Scraping Pipeline for Revenue Data
 
-This document records the exact sequence of steps required to scrape, structure, and export company revenue data from a public web source. All actions are listed in execution order and are sufficient to reproduce the pipeline without additional context.
+This project documentsthe exact sequence of steps required to scrape, structure, and export company revenue data from a public web source. 
 
 ---
 
