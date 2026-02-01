@@ -6,6 +6,7 @@ This project documentsthe exact sequence of steps required to scrape, structure,
 
 ## Data Connection and Source Configuration
 
+In a python library, 
 Import the `requests` library to handle HTTP connections and import `BeautifulSoup` from the `bs4` package to parse HTML content.  
 Define the variable `url` and assign it the Wikipedia page titled *List of largest companies in the United States by revenue*.  
 Execute `requests.get(url)` to retrieve the response object containing the raw HTML payload.  
